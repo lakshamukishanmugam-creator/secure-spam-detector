@@ -34,7 +34,7 @@ Currently under development. Features and technologies will be updated as implem
 ## Team
 Sathyabama Dexathon 2026
 
-Team Name: [Your Registered Team Name]
+Team Name: KELVON
 
 ## Disclaimer
 SecureSpam is intended as an additional security aid. It cannot guarantee the detection of every scam or prevent all data leaks.
